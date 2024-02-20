@@ -1,3 +1,3 @@
 var myHeading = document.querySelector("h1");
 myHeading.textContent = "Hello World!";
-document.write;
+document.write(myHeading);
